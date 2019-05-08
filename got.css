@@ -6,8 +6,9 @@
  	margin:0px;
 
  	
- 	background-image: url("./img/gotpic2.jpg");
+ 	background-image: url("img/gotpic2.jpg");
  	background-size: 100%;
+ 	
 
 
  }
@@ -52,7 +53,7 @@ h2 {
 footer{
 	margin-top: 200px;
 	padding:40px 20px;
-	background-color: white;
+	background-color: #d6d6d6;
 	text-align: center;
-	text-shadow: 0 4px 20px white;
+	text-shadow: 0 4px 20px black;
 }
